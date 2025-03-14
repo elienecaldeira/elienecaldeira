@@ -5,11 +5,11 @@
 
 ## 🚀 Sobre Mim
 
-Atuei há mais de 6 anos como **Analista de Suporte ERP**, com experiência em análise de processos, automação de sistemas e otimização de fluxos de trabalho.  
+Atuei há mais de 6 anos como **Analista de Suporte ERP**, com experiência no suporte aos usuários do ERP, nos setores: Comercial, Vendas, Nota Fiscal Eletrônica e PDV.
 
 Atualmente, meu foco é me tornar uma especialista **na  área de Dados**, estou estudando **SQL, Python, Power BI e Machine Learning** , **programação** e **desenvolvimento pessoal**.
 
-Sou apaixonada por transformar dados em insights estratégicos, ajudando empresas a tomarem decisões mais inteligentes.
+Sou fascinada por transformar dados em insights estratégicos, ajudando empresas a tomarem decisões mais inteligentes.
 
 ---
 
