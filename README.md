@@ -7,7 +7,7 @@
 
 Atuei há mais de 6 anos como **Analista de Suporte ERP**, com experiência em análise de processos, automação de sistemas e otimização de fluxos de trabalho.  
 
-Atualmente, estou focada em  me **especializar para a área de Dados**, estudando **SQL, Python, Power BI e Machine Learning** , **programação** e **desenvolvimento pessoal**.
+Atualmente, meu foco é me tornar uma especializada **na  área de Dados**, estou estudando **SQL, Python, Power BI e Machine Learning** , **programação** e **desenvolvimento pessoal**.
 
 Sou apaixona por transformar dados em insights estratégicos, ajudando empresas a tomarem decisões mais inteligentes.
 
