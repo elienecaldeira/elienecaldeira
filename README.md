@@ -5,7 +5,7 @@
 
 ## 🚀 Sobre Mim
 
-Atuei há mais de 6 anos como **Analista de Suporte ERP**, com experiência no suporte aos usuários do ERP dos  setores: Comercial, Vendas, Nota Fiscal Eletrônica e PDV.
+Atuei há mais de 6 anos como **Analista de Suporte ERP**, com experiência no suporte aos usuários do ERP dos módulos: Comercial, Vendas, Nota Fiscal Eletrônica e PDV.
 
 Atualmente, meu foco é me tornar uma especialista **na  área de Dados**, estou estudando **SQL, Python, Power BI e Machine Learning** , **programação** e **desenvolvimento pessoal**.
 
