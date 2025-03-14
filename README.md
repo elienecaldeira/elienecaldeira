@@ -19,8 +19,8 @@ Sou apaixona por transformar dados em insights estratégicos, ajudando empresas 
 - 💼 Implantação e suporte de sistemas ERP
 
 ### **Ferramentas de Dados**
-- 🗃️ **SQL** – Manipulação e extração de dados em bancos relacionais (**PostgreSQL, MySQL, SQL Server**)
-- 🐍 **Python** – Análise de dados e automação (**Pandas, NumPy, Matplotlib, Seaborn**)
+- 🗃️ **SQL** – Manipulação e extração de dados em bancos relacionais (**MySQL, SQL Server**)
+- 🐍 **Python** – Análise de dados e automação (**Pandas, NumPy**)
 - 📊 **Power BI** – Visualização e criação de dashboards interativos
 
 
